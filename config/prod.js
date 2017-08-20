@@ -2,12 +2,12 @@
 
 module.exports = {
 
-    googleClientID: proccess.env.GOOGLE_CLIENT_ID,
+    googleClientID: process.env.GOOGLE_CLIENT_ID,
 
-    googleClientSecret: proccess.env.GOOGLE_CLIENT_SECRET,
+    googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
 
-    mongoURI: proccess.env.MONGO_URI,
+    mongoURI: process.env.MONGO_URI,
 
-    cookieKey: proccess.env.COOKIE_KEY,
+    cookieKey: process.env.COOKIE_KEY,
 
 };
