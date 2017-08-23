@@ -1,2 +1,10 @@
 node_modules
 config/dev.js
+.gitignore
+.jshintrc
+README.md
+etc/
+package.json
+public/
+src/
+yarn.lock
